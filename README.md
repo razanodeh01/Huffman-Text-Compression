@@ -28,7 +28,7 @@ A Python-based project that applies Huffman coding to compress the short story *
 
 ## 🎥 Demo
 
-Here’s a quick preview of how the program runs in the terminal:[Run the script](https://github.com/user-attachments/assets/e34fd1c2-4a38-44ce-8fdc-2c8f8fedfd14)
+Here’s a quick preview of how the program runs in the terminal: [Run the script](https://github.com/user-attachments/assets/e34fd1c2-4a38-44ce-8fdc-2c8f8fedfd14)
 
 
 ## 👥 Contributors:
